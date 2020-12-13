@@ -1,6 +1,6 @@
 build:
   docker:
-    client: client/Dockerfile
-    nginx: nginx/Dockerfile
-    server: server/Dockerfile
-    worker: worker/Dockerfile
+    client: client/Dockerfile.dev
+    nginx: nginx/Dockerfile.dev
+    server: server/Dockerfile.dev
+    worker: worker/Dockerfile.dev
