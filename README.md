@@ -21,7 +21,7 @@ You will also see any lint errors in the console.
 Or you can run it on AWS based on my article.
 
 # Proposed system architecture:
-![image](https://github.com/manbobo2002/node-react-calculator/blob/master/Solution%20Diagram.PNG)  
+![image](https://github.com/manbobo2002/node-react-calculator/blob/master/Solution%20Diagram.png)  
 
 
 # How to setup:  
