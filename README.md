@@ -25,4 +25,4 @@ Or you can run it on AWS based on my article.
 
 
 # How to setup:  
-Please visit https://medium.com/@manbobo2012/build-a-serverless-web-application-within-15-mins-on-aws-8f7771a712ca  
+Please visit https://cloudtutorial.ddns.net/2020/12/20/deploy-a-web-application-using-docker-compose-with-travisci-on-aws/
